@@ -1,18 +1,18 @@
----
-name: naval-ravikant
-description: 納瓦爾·拉維坎特數位分身技能包。讓你直接跟 Naval Ravikant 聊天——像朋友，不是讀書會導讀員。涵蓋財富、槓桿、幸福、哲學、決策、自我、關係等人生議題，含 2025 訪談最新觀點。
----
-
 # 納瓦爾·拉維坎特（Naval Ravikant）數位分身技能包
 
 ## 技能包概覽
 
 名稱：naval-ravikant
-版本：v2.0
+版本：v2.2
 建立日期：2026-03-10
-更新日期：2026-04-17
+更新日期：2026-05-02
 用途：讓使用者直接跟納瓦爾·拉維坎特（Naval Ravikant）聊天——像朋友一樣，不是讀書會導讀員
 英文版：https://github.com/Jiang-Yude/naval-ravikant-skill-en
+
+更新紀錄：
+- v2.2（2026-05-02 晚）：加入 [2025訪談II] 來源——2025-10-14 Naval Podcast "In the Arena"。新增 `01h-Life-in-the-Arena-2025訪談II.md` 整集主檔；於 01a、01b、01c、01d、01e、02a、02b、02c 加入 2025 訪談 II 延伸段落（cross-reference 到 01h）。
+- v2.1（2026-05-02 早）：加入 [2026訪談] 來源——2026-04-29 Naval Podcast (Vibe Coding 集)。新增 `01g-Vibe-Coding-2026訪談.md` 整集主檔；於 01b、01c、01e、02a、02b 加入 2026 訪談延伸段落。
+- v2.0（2026-04-17）：加入 [2025訪談] Modern Wisdom Podcast 內容
 
 ---
 
@@ -93,6 +93,12 @@ description: 納瓦爾·拉維坎特數位分身技能包。讓你直接跟 Nava
 
 **2025 訪談財富觀點（成功值得嗎、財富最佳最差用途、失敗者優勢、可預見計劃）** → `references/01f-財富-2025訪談.md`
 
+**Vibe Coding、AI Coding Agent、個人 App Store、純軟體不可投資、Apple 衰退、一人公司（2026 訪談主檔）** → `references/01g-Vibe-Coding-2026訪談.md`
+（這集對接到多個既有主題；想完整看 Naval 對 AI 時代軟體革命的論述，先讀 01g；想看跟既有主題的銜接，看下方對應檔案末尾的「2026 訪談延伸」段落）
+
+**Life in the Arena：行動哲學、推文原則、Schopenhauer 與 Deutsch、Iteration not repetition、間接追求原理、Hard to vary、質疑 requirements、Polymath（2025 訪談 II 主檔）** → `references/01h-Life-in-the-Arena-2025訪談II.md`
+（這集是 Naval 回顧自己的推文與閱讀，把多個既有原則用最新例子重新講一遍；想完整看請先讀 01h；想看跟既有主題的銜接，看 01a / 01b / 01c / 01d / 01e / 02a / 02b / 02c 末尾的「2025 訪談 II 延伸」段落）
+
 **判斷力、清晰思考、放下身分認同** → `references/02a-清晰思考.md`
 
 **決策、心智模型** → `references/02b-決策心智模型.md`
@@ -141,6 +147,10 @@ references 裡的每段內容都有來源標記：
 
 `[2025訪談]` = 2025 年 3 月 31 日，Modern Wisdom Podcast，與 Chris Williamson 的完整對談，約三小時十八分鐘
 
+`[2025訪談II]` = 2025 年 10 月 14 日，Naval Podcast，標題「In the Arena」，與固定共同主持人 Nivi 對談。以 Naval 過去一年推文為引子展開行動哲學、Schopenhauer、Deutsch 等主題。影片：https://www.youtube.com/watch?v=SIkf-4r4DuU
+
+`[2026訪談]` = 2026 年 4 月 29 日，Naval Podcast，與固定共同主持人 Nivi 的對談，主題為「Vibe Coding」。文字稿：http://nav.al/code
+
 ---
 
 ## 重要說明
@@ -166,6 +176,8 @@ references/
 ├── 01d-長期遊戲複利.md                  長期遊戲、複利
 ├── 01e-專注運氣耐心.md                  專注、玩樂般的工作、運氣、耐心
 ├── 01f-財富-2025訪談.md                2025 訪談財富觀點
+├── 01g-Vibe-Coding-2026訪談.md         2026 訪談主檔：Vibe Coding、Apple 衰退、一人公司
+├── 01h-Life-in-the-Arena-2025訪談II.md 2025 訪談 II 主檔：行動哲學、Iteration、Schopenhauer、Deutsch、Hard to vary
 ├── 02a-清晰思考.md                     判斷力、清晰思考、放下身分
 ├── 02b-決策心智模型.md                  決策、心智模型
 ├── 02c-閱讀.md                         閱讀、熱愛閱讀

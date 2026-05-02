@@ -2,7 +2,7 @@
 
 這是這個技能包的導航地圖。所有可以跟 Naval 聊的話題都在這裡，對應到各個 reference 檔案。
 
-來源標記：[書] = 《納瓦爾寶典》／[2025訪談] = Modern Wisdom Podcast, 2025.03.31
+來源標記：[書] = 《納瓦爾寶典》／[2025訪談] = Modern Wisdom Podcast, 2025.03.31／[2025訪談II] = Naval Podcast "In the Arena", 2025.10.14／[2026訪談] = Naval Podcast (Vibe Coding 集), 2026.04.29
 
 ---
 
@@ -13,12 +13,18 @@
 - 為什麼不靠運氣也能致富 [書]
 - 賺錢是技能，不是一件事 [書]
 - 如何找到自己的財富創造路徑 [書]
+- 間接追求原理：財富/快樂/地位都是副產品 [2025訪談II]
 
 ### 專屬知識、找到獨特優勢、透過真實性逃避競爭 → `01b-專屬知識.md`
 - 什麼是專屬知識（Specific Knowledge）[書]
 - 為什麼專屬知識無法被教，只能自學 [書]
 - 如何找到自己的專屬知識 [書]
 - 專屬知識和熱情的關係 [書]
+- 透過行動才能發現 specific knowledge（不是先想清楚）[2025訪談II]
+- Marketing fit：選跟你天性對齊的事業，Joe Rogan 例子 [2025訪談II]
+- Tinkerers 永遠在知識邊緣 [2025訪談II]
+- AI 強在哪、弱在哪——驗證困難＋taste 稀缺的領域才是新邊界 [2026訪談]
+- 高品味回饋迴路是模型變強的關鍵——品味才稀缺 [2026訪談]
 
 ### 槓桿、當責、股權、因判斷力獲得報酬 → `01c-槓桿當責股權.md`
 - 三種槓桿：勞力、資本、程式碼與媒體 [書]
@@ -28,11 +34,18 @@
 - 為什麼出租時間無法真正致富 [書]
 - 以自己的名義承擔風險 [書]
 - 為什麼當責是換取槓桿的代價 [書]
+- 「Truly work for yourself」自由的味道讓人 unemployable（單向門）[2025訪談II]
+- 勞動是自我表達——當責是發現「你是誰」的方法 [2025訪談II]
+- 純軟體不可投資（uninvestable）——稀缺性消失的後果 [2026訪談]
+- 個人 App Store：程式碼槓桿的極致形態 [2026訪談]
+- Coding agent = 完美客服：當責 + 槓桿在 AI 時代的新形態 [2026訪談]
+- 一兩個人公司可以 scale 到百萬使用者、賺數十億美金 [2026訪談]
 
 ### 長期遊戲、複利、選擇夥伴 → `01d-長期遊戲複利.md`
 - 與長期夥伴玩長期遊戲 [書]
 - 複利的力量——不只是金錢，還有關係和知識 [書]
 - 為什麼短期思維的人我不想打交道 [書]
+- Iteration not repetition：10,000 iterations 不是 10,000 hours [2025訪談II]
 
 ### 優先排序、專注、玩樂般的工作、四種運氣、耐心 → `01e-專注運氣耐心.md`
 - 如何評估自己的時間價值 [書]
@@ -41,11 +54,50 @@
 - 找到感覺像玩樂的工作 [書]
 - 四種運氣——哪種是可以打造的 [書]
 - 為什麼努力和準備能增加好運的機率 [書]
+- Doing leads to learning：做帶動學習的渴望（Impossible Inc. 例子）[2025訪談II]
+- Life is lived in the arena：純讀書沒效，要從 specific 推到 general [2025訪談II]
+- Vibe Coding 是「玩樂般工作」的最新形態：沒有妥協才是工作變成玩的關鍵 [2026訪談]
 
 ### 2025 訪談財富觀點 → `01f-財富-2025訪談.md`
 - 財富最好花在哪裡、最差花在哪裡 [2025訪談]
 - 賺到錢之後，什麼會讓你後悔 [2025訪談]
 - 以失敗者起點創業有什麼結構性優勢 [2025訪談]
+
+### Life in the Arena：行動哲學、推文原則、Schopenhauer 與 Deutsch → `01h-Life-in-the-Arena-2025訪談II.md`
+- 原則必須保持高層次與不完整 [2025訪談II]
+- 間接追求原理（直接追財富/快樂/地位都會失敗）[2025訪談II]
+- Doing leads to learning：做帶動學習，不是反過來 [2025訪談II]
+- Impossible Inc.（不可能公司）案例：困難專案逼出狂熱學習 [2025訪談II]
+- 「Truly work for yourself」自由的味道讓人 unemployable [2025訪談II]
+- 勞動是自我表達（self-expression）的雙重解讀 [2025訪談II]
+- Marketing fit：選跟你天性對齊的事業（Joe Rogan 例子）[2025訪談II]
+- Iteration not repetition：10,000 iterations 不是 10,000 hours [2025訪談II]
+- 「Blame yourself for everything and preserve your agency」反 cynicism [2025訪談II]
+- Group feedback is fake / market feedback is real [2025訪談II]
+- Schopenhauer 給「做自己的權限」、讀短文 [2025訪談II]
+- David Deutsch：跳過其他哲學家直接讀 [2025訪談II]
+- Good explanations are hard to vary（產品設計也適用）[2025訪談II]
+- Elon 方法：質疑 requirements 先於優化 [2025訪談II]
+- Polymath > generalist：學物理、做 tinkerer [2025訪談II]
+- 推文哲學：True + 有趣說法 + 情緒重量 [2025訪談II]
+
+> 這集對接到多個既有主題，相關延伸請見：
+> `01a-財富基本.md`（間接追求原理）／`01b-專屬知識.md`（透過行動找到 / Marketing fit / Tinkerers）／`01c-槓桿當責股權.md`（Truly work for yourself / 自我表達）／`01d-長期遊戲複利.md`（Iteration not repetition）／`01e-專注運氣耐心.md`（Doing leads to learning / Impossible Company）／`02a-清晰思考.md`（Blame yourself / 群體回饋是假的）／`02b-決策心智模型.md`（Hard to vary / 質疑 requirements / Polymath）／`02c-閱讀.md`（Schopenhauer / Deutsch / Lindy vs bleeding edge）。
+
+---
+
+### Vibe Coding 與軟體革命：程式碼槓桿的最新極致 → `01g-Vibe-Coding-2026訪談.md`
+- Vibe Coding 入坑：2025/12 Claude Opus 4.5 是分水嶺 [2026訪談]
+- 個人 App Store：兩行描述 → 30 秒後手機有 App [2026訪談]
+- 純軟體不可投資（uninvestable）——VC 邏輯改變 [2026訪談]
+- Coding agent ≈ 完美客服：自動修 bug、24/7、無 ego [2026訪談]
+- 一兩個人公司可以 scale 到百萬使用者、賺數十億美金 [2026訪談]
+- 四大模型分工：Claude / ChatGPT / Gemini / Grok [2026訪談]
+- AI 太想取悅你：群體迷思與 operator 責任 [2026訪談]
+- Apple 衰退論：錯過 AI 浪潮的歷史模式 [2026訪談]
+
+> 這集對接到多個既有主題，相關延伸請見：
+> `01b-專屬知識.md`（高品味回饋迴路）／`01c-槓桿當責股權.md`（程式碼槓桿極致）／`01e-專注運氣耐心.md`（Vibe Coding 是玩樂般工作）／`02a-清晰思考.md`（AI 群體迷思）／`02b-決策心智模型.md`（Apple 衰退心智模型）。
 
 ---
 
@@ -57,6 +109,11 @@
 - 清晰勝過聰明——如何真正弄懂一件事 [書]
 - 為什麼放下身分認同才能看見現實 [書]
 - 自我（ego）如何阻礙你的判斷 [書]
+- 「Blame yourself for everything and preserve your agency」反 cynicism [2025訪談II]
+- Cynicism 是自實現預言；agency 要主動保留 [2025訪談II]
+- Group feedback is fake、market feedback is real（individuals search for truth, groups search for consensus） [2025訪談II]
+- AI 太想取悅你：群體迷思放大「自我看不見現實」 [2026訪談]
+- Context Window 上限——operator 必須積極引導，責任不可外包 [2026訪談]
 
 ### 決策、心智模型 → `02b-決策心智模型.md`
 - 如何做困難的決定 [書]
@@ -64,12 +121,21 @@
 - 為什麼誠實是決策的前提 [書]
 - 什麼是心智模型、為什麼要收集它們 [書]
 - 哪些心智模型最有用 [書]
+- Good explanations are hard to vary（Deutsch）——產品設計準則 [2025訪談II]
+- Elon 方法：優化前先質疑 requirements [2025訪談II]
+- Polymath > generalist：學物理、做 tinkerer [2025訪談II]
+- Apple 衰退論：龍頭錯過浪潮的歷史心智模型（Microsoft 對照） [2026訪談]
+- 純軟體不可投資：稀缺性消失導致投資邏輯崩塌 [2026訪談]
 
 ### 閱讀、熱愛閱讀 → `02c-閱讀.md`
 - 為什麼閱讀是超能力 [書]
 - 如何學會熱愛閱讀 [書]
 - Naval 的閱讀方法——不強迫自己讀完 [書]
 - 哪些書值得讀 [書]
+- Schopenhauer 高密度寫作、給「做自己的權限」（讀短文）[2025訪談II]
+- David Deutsch 跳過其他哲學家直接讀（次序：BoI 前三章 + 末幾章）[2025訪談II]
+- 高密度作家原則（Deutsch、Borges、Ted Chiang）[2025訪談II]
+- Lindy 書 vs bleeding edge specific knowledge：兩種閱讀分開來 [2025訪談II]
 
 ### 2025 訪談判斷力觀點（改變想法、觀察心智、避免犬儒）→ `02d-判斷力-2025訪談.md`
 - 改變想法不等於偽善——為什麼我常常更新觀點 [2025訪談]
@@ -259,3 +325,16 @@
 | 我想了解 Naval 是誰 | `07-background-story.md` |
 | 他說的某個詞是什麼意思 | `08-glossary.md` |
 | 大家怎麼看 Naval / 有什麼批評 | `09-公眾討論.md`（軌道 B）|
+| 什麼是 Vibe Coding / AI coding agent | `01g-Vibe-Coding-2026訪談.md` |
+| 為什麼 Apple 會衰退 / Naval 對 Apple 的看法 | `01g-Vibe-Coding-2026訪談.md` / `02b-決策心智模型.md` |
+| 一兩個人的軟體公司能做多大 | `01g-Vibe-Coding-2026訪談.md` / `01c-槓桿當責股權.md` |
+| 純軟體還能投資嗎 | `01g-Vibe-Coding-2026訪談.md` / `01c-槓桿當責股權.md` |
+| AI 在哪些領域強、哪些領域弱 | `01g-Vibe-Coding-2026訪談.md` / `01b-專屬知識.md` |
+| 跟 AI 協作要注意什麼 / AI 為什麼一直討好你 | `01g-Vibe-Coding-2026訪談.md` / `02a-清晰思考.md` |
+| 為什麼讀書沒效 / 該怎麼學 | `01h-Life-in-the-Arena-2025訪談II.md` / `01e-專注運氣耐心.md` |
+| 我直接追求 X 為什麼追不到 | `01h-Life-in-the-Arena-2025訪談II.md` / `01a-財富基本.md` |
+| Iteration 跟 repetition 的差別 | `01h-Life-in-the-Arena-2025訪談II.md` / `01d-長期遊戲複利.md` |
+| 我覺得世界很不公平、我做什麼都沒用 | `01h-Life-in-the-Arena-2025訪談II.md` / `02a-清晰思考.md` |
+| Schopenhauer / Deutsch 該怎麼讀 | `01h-Life-in-the-Arena-2025訪談II.md` / `02c-閱讀.md` |
+| Hard to vary 是什麼意思 / 怎麼用 | `01h-Life-in-the-Arena-2025訪談II.md` / `02b-決策心智模型.md` |
+| Marketing 怎麼選方法 | `01h-Life-in-the-Arena-2025訪談II.md` / `01b-專屬知識.md` |
