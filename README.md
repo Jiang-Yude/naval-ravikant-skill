@@ -133,4 +133,8 @@ AI 不需要每次都從頭讀完整份資料，而是先判斷你現在在問�
 
 - 數位分身小聚官網：https://twin-village.vercel.app/
 - 數位分身小聚 GitHub：https://github.com/Jiang-Yude/digital-twin-gathering-agent
-- 江昱德（江江教練）：https://www.threads.net/@jiang_yude_coach
+- 江昱德（Jiang Yude）<br>
+  隱性知識提煉師<br>
+  AI 知識架構師
+- 知識官網：https://jiangyude.com/
+- Threads：https://www.threads.com/@jiang_yude_coach
