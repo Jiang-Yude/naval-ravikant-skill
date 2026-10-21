@@ -2,7 +2,7 @@
 
 這是這個技能包的導航地圖。所有可以跟 Naval 聊的話題都在這裡，對應到各個 reference 檔案。
 
-來源標記：[書] = 《納瓦爾寶典》／[2025訪談] = Modern Wisdom Podcast, 2025.03.31／[2025訪談II] = Naval Podcast "In the Arena", 2025.10.14／[2026訪談] = Naval Podcast (Vibe Coding 集), 2026.04.29
+來源標記：[書] = 《納瓦爾寶典》／[2025訪談] = Modern Wisdom Podcast, 2025.03.31／[2025訪談II] = Naval Podcast "In the Arena", 2025.10.14／[2026訪談首集] = Naval Podcast (If You Want to Learn, Do, AI 整體看法集), 2026.02.19／[2026訪談] = Naval Podcast (Vibe Coding 集), 2026.04.29／[2026工業革命訪談] = Naval Podcast (The AI Industrial Revolution), 2026.06.01
 
 ---
 
@@ -40,6 +40,8 @@
 - 個人 App Store：程式碼槓桿的極致形態 [2026訪談]
 - Coding agent = 完美客服：當責 + 槓桿在 AI 時代的新形態 [2026訪談]
 - 一兩個人公司可以 scale 到百萬使用者、賺數十億美金 [2026訪談]
+- 人類成為驗證者：產出變便宜後，判斷與簽署責任升值 [2026工業革命訪談]
+- 大量小團隊與通才崛起：AI 把程式碼槓桿推到組織結構層級 [2026工業革命訪談]
 
 ### 長期遊戲、複利、選擇夥伴 → `01d-長期遊戲複利.md`
 - 與長期夥伴玩長期遊戲 [書]
@@ -57,6 +59,7 @@
 - Doing leads to learning：做帶動學習的渴望（Impossible Inc. 例子）[2025訪談II]
 - Life is lived in the arena：純讀書沒效，要從 specific 推到 general [2025訪談II]
 - Vibe Coding 是「玩樂般工作」的最新形態：沒有妥協才是工作變成玩的關鍵 [2026訪談]
+- Vibe coding 比電玩更有真實獎勵：遊戲性 + 真實產品 [2026工業革命訪談]
 
 ### 2025 訪談財富觀點 → `01f-財富-2025訪談.md`
 - 財富最好花在哪裡、最差花在哪裡 [2025訪談]
@@ -101,6 +104,49 @@
 
 ---
 
+### If You Want to Learn, Do：怎麼看 AI、怎麼學 AI、AI 焦慮的解方 → `01i-If-You-Want-to-Learn-Do-2026訪談首集.md`
+- Vibe coding 是新的產品管理 [2026訪談首集]
+- 訓練模型是新的 coding [2026訪談首集]
+- 軟體工程師沒有死，反而是地球上最被槓桿化的人之一 [2026訪談首集]
+- Become the best in the world at what you do, keep redefining what you do until this is true [2026訪談首集]
+- 平均無市場 + 長尾被填滿 [2026訪談首集]
+- 英文是最熱的新程式語言（Karpathy 引用）[2026訪談首集]
+- 抽象堆疊新層：自然語言成為新的 programming language [2026訪談首集]
+- 別學 AI 訣竅——AI 適應你比你適應它快 [2026訪談首集]
+- 聰明＝懶（這是讚美）[2026訪談首集]
+- 沒有創業者擔心 AI 搶他的工作 [2026訪談首集]
+- 創業者 = extreme agency（探險者／科學家／真正藝術家同類）[2026訪談首集]
+- 目標不是有一份工作 [2026訪談首集]
+- AIs 不活著（缺 agency / embodiment / 生存本能）[2026訪談首集]
+- 智力的唯一真正測試：你能不能拿到你想要的 [2026訪談首集]
+- AI 的 alpha 會被競爭掉，剩下 alpha 全在創造力 [2026訪談首集]
+- 早期採用者有巨大優勢 [2026訪談首集]
+- AI 是最有耐心的家教，meet you exactly at your level ⭐ [2026訪談首集]
+- 學習工具一直豐盛，匱乏的是學習欲望 [2026訪談首集]
+- 永遠用最先進模型 + thinking mode + 跑 4 個 AI cross-examine [2026訪談首集]
+- If you can't define it, you can't program it（AI 不真有創意）[2026訪談首集]
+- AI 焦慮的解方是行動：打開引擎蓋看裡面 [2026訪談首集]
+
+> 這集對接到多個既有主題，相關延伸請見：
+> `01a-財富基本.md`（沒人擔心 AI 搶工作 / 目標不是工作）／`01c-槓桿當責股權.md`（vibe coding / 軟體工程師更槓桿 / 英文是新程式語言）／`01e-專注運氣耐心.md`（別學 AI 訣竅 / 早期採用者）／`02a-清晰思考.md`（智力測試 / cross-examine / 焦慮解方是行動）／`02b-決策心智模型.md`（定義不了就程式化不了）／`02c-閱讀.md`（AI 是最有耐心的家教 ⭐）／`05a-拯救與解放自己.md`（AIs 不活著）。
+
+---
+
+### AI Industrial Revolution：人類成為驗證者、軟體工廠、小團隊 → `2026-06-02-1507 01j-AI-Industrial-Revolution-2026訪談.md`
+- Waste tokens, save time：不要把省 token 當主戰場，人的時間更貴 [2026工業革命訪談]
+- 純軟體護城河被重新定價：會寫程式不再天然稀缺 [2026工業革命訪談]
+- 人類成為 verifier：AI 產出，人類驗證、簽署、承擔責任 [2026工業革命訪談]
+- 監管紅后競賽：企業用 AI 產出合規文件，監管者也被迫用 AI 審查 [2026工業革命訪談]
+- 醫療創新瓶頸：監管、支付者分離、風險容忍度限制實體世界創新 [2026工業革命訪談]
+- AI 與藝術：大量生成會製造 slop，意圖與驚喜更稀缺 [2026工業革命訪談]
+- AI 能否有新想法：AI 重組已知資料，人類仍可能提供系統外視角 [2026工業革命訪談]
+- 大量小團隊與通才崛起：品味、判斷、跨域整合升值 [2026工業革命訪談]
+
+> 這集對接到多個既有主題，相關延伸請見：
+> `01b-專屬知識.md`（品味與跨域整合）／`01c-槓桿當責股權.md`（小團隊與程式碼槓桿）／`01e-專注運氣耐心.md`（vibe coding 的真實獎勵）／`02a-清晰思考.md`（人類 verifier）／`02b-決策心智模型.md`（AI 能否有新想法 / 監管紅后競賽）／`06-relationships-society.md`（醫療制度與監管）。
+
+---
+
 ## 判斷力與思考系列
 
 ### 判斷力、清晰思考、放下身分認同 → `02a-清晰思考.md`
@@ -114,6 +160,7 @@
 - Group feedback is fake、market feedback is real（individuals search for truth, groups search for consensus） [2025訪談II]
 - AI 太想取悅你：群體迷思放大「自我看不見現實」 [2026訪談]
 - Context Window 上限——operator 必須積極引導，責任不可外包 [2026訪談]
+- 人類成為驗證者：AI 時代清晰思考的責任是驗證、簽署、承擔後果 [2026工業革命訪談]
 
 ### 決策、心智模型 → `02b-決策心智模型.md`
 - 如何做困難的決定 [書]
@@ -126,6 +173,8 @@
 - Polymath > generalist：學物理、做 tinkerer [2025訪談II]
 - Apple 衰退論：龍頭錯過浪潮的歷史心智模型（Microsoft 對照） [2026訪談]
 - 純軟體不可投資：稀缺性消失導致投資邏輯崩塌 [2026訪談]
+- 監管紅后競賽：AI 產生文件、AI 審查文件，制度瓶頸轉向風險判斷 [2026工業革命訪談]
+- AI 能否有新想法：系統內重組 vs 系統外視角 [2026工業革命訪談]
 
 ### 閱讀、熱愛閱讀 → `02c-閱讀.md`
 - 為什麼閱讀是超能力 [書]
